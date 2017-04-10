@@ -1,0 +1,17 @@
+﻿Solution:		Demo_MG_MazeGame
+Author:			John E Velis
+Created:		11/5/2015
+Last Modified:	11/27/2015
+
+Project:		D04
+Description:	Refactor Update() method into ManageGameAction() method
+				Add a SpriteFont object to display the score.
+				Add a game information area and use it to track jewel collection events
+				Add a Jewel class and a list of jewels object
+				Add a green jewel image to content
+				Add a ManageGameObjects() method to handle jewel collection events
+				Modify the BuildMap() method to manage jewels
+
+
+
+

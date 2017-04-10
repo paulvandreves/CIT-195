@@ -1,0 +1,55 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Documentation", "_Documentation\_Documentation.csproj", "{3503CC3A-008C-4D94-9E9A-E1E954E75F9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_MG_MazeGame.D04.Solution", "Demo_MG_MazeGame.D04.Solution\Demo_MG_MazeGame.D04.Solution.csproj", "{2F058C8C-D18D-49A8-BA1D-FA39AEF1B7D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_MG_MazeGame.D04.Starter", "Demo_MG_MazeGame.D04.Starter\Demo_MG_MazeGame.D04.Starter.csproj", "{56F9010C-21BB-493A-A621-9A7BCD112868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3503CC3A-008C-4D94-9E9A-E1E954E75F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3503CC3A-008C-4D94-9E9A-E1E954E75F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3503CC3A-008C-4D94-9E9A-E1E954E75F9A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{3503CC3A-008C-4D94-9E9A-E1E954E75F9A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{3503CC3A-008C-4D94-9E9A-E1E954E75F9A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3503CC3A-008C-4D94-9E9A-E1E954E75F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3503CC3A-008C-4D94-9E9A-E1E954E75F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3503CC3A-008C-4D94-9E9A-E1E954E75F9A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{3503CC3A-008C-4D94-9E9A-E1E954E75F9A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{3503CC3A-008C-4D94-9E9A-E1E954E75F9A}.Release|x86.ActiveCfg = Release|Any CPU
+		{2F058C8C-D18D-49A8-BA1D-FA39AEF1B7D6}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{2F058C8C-D18D-49A8-BA1D-FA39AEF1B7D6}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{2F058C8C-D18D-49A8-BA1D-FA39AEF1B7D6}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{2F058C8C-D18D-49A8-BA1D-FA39AEF1B7D6}.Debug|x86.ActiveCfg = Debug|x86
+		{2F058C8C-D18D-49A8-BA1D-FA39AEF1B7D6}.Debug|x86.Build.0 = Debug|x86
+		{2F058C8C-D18D-49A8-BA1D-FA39AEF1B7D6}.Release|Any CPU.ActiveCfg = Release|x86
+		{2F058C8C-D18D-49A8-BA1D-FA39AEF1B7D6}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{2F058C8C-D18D-49A8-BA1D-FA39AEF1B7D6}.Release|Mixed Platforms.Build.0 = Release|x86
+		{2F058C8C-D18D-49A8-BA1D-FA39AEF1B7D6}.Release|x86.ActiveCfg = Release|x86
+		{2F058C8C-D18D-49A8-BA1D-FA39AEF1B7D6}.Release|x86.Build.0 = Release|x86
+		{56F9010C-21BB-493A-A621-9A7BCD112868}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{56F9010C-21BB-493A-A621-9A7BCD112868}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{56F9010C-21BB-493A-A621-9A7BCD112868}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{56F9010C-21BB-493A-A621-9A7BCD112868}.Debug|x86.ActiveCfg = Debug|x86
+		{56F9010C-21BB-493A-A621-9A7BCD112868}.Debug|x86.Build.0 = Debug|x86
+		{56F9010C-21BB-493A-A621-9A7BCD112868}.Release|Any CPU.ActiveCfg = Release|x86
+		{56F9010C-21BB-493A-A621-9A7BCD112868}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{56F9010C-21BB-493A-A621-9A7BCD112868}.Release|Mixed Platforms.Build.0 = Release|x86
+		{56F9010C-21BB-493A-A621-9A7BCD112868}.Release|x86.ActiveCfg = Release|x86
+		{56F9010C-21BB-493A-A621-9A7BCD112868}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
